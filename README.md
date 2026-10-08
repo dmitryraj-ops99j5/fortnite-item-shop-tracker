@@ -9,4 +9,4 @@ I cached yesterday, and prints what changed. I run it from cron.
 pip install -r requirements.txt
 
 
-<!-- refreshed: 2026-10-07 -->
+<!-- refreshed: 2026-10-08 -->
